@@ -5,3 +5,6 @@ const ch = "aa"
 
 
 console.log(ch) 
+const name ="malek"
+console.log(ch) 
+
